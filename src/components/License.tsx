@@ -25,7 +25,7 @@ const License = () => (
       flexDirection="column"
     >
       <Text color="primary" textAlign="center" margin="0px 0px 0px 0px">
-        <Link color="lightblue" href="github">
+        <Link color="lightblue" href={Config.homepage}>
           {Config.title + " - " + Config.conference}
         </Link>{" "}
         &copy; {format(new Date(Config.date), "yyyy")} by{" "}

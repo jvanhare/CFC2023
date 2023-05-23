@@ -1,4 +1,5 @@
 const config = {
+  homepage: "https://jvanhare.github.io/CFC2023",
   title:
     "7th AIAA CFD Drag Prediction Workshop results using anisotropic mesh adaptation",
   shortTitle: "DPW7",
